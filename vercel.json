@@ -3,6 +3,5 @@
   "outputDirectory": ".next",
   "framework": "nextjs",
   "installCommand": "npm install",
-  "regions": ["bom1"],
-  "projectName": "poojawavdara"
+  "regions": ["bom1"]
 }
