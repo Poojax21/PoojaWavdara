@@ -1,0 +1,18 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://poojawavdara.vercel.app/sitemap.xml
+
+User-agent: Googlebot
+Allow: /
+Disallow: /api/
+
+User-agent: Bingbot
+Allow: /
+Disallow: /api/
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: Facebookexternalhit
+Allow: /
